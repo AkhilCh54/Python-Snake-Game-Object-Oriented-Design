@@ -1,6 +1,5 @@
 # Python Snake Game: Object-Oriented Design
 
-## **A Modern Take on a Timeless Classic**
 
 ## **Project Overview**
 This project is a fully functional version of the Snake game, designed to showcase OOP concepts such as encapsulation, abstraction, and modular design. It features a clean separation of responsibilities across four main files:
