@@ -2,10 +2,6 @@
 
 ## **A Modern Take on a Timeless Classic**
 
-The classic Snake game, originally popularized by Nokia in 1997, became a global sensation and remains one of the most iconic games of all time. This project is a modern recreation of the Snake game, built with Python using Object-Oriented Programming (OOP) principles to ensure clean, modular, and maintainable code.
-
----
-
 ## **Project Overview**
 This project is a fully functional version of the Snake game, designed to showcase OOP concepts such as encapsulation, abstraction, and modular design. It features a clean separation of responsibilities across four main files:
 
